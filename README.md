@@ -1,1 +1,1 @@
-# AI_MedDiagnos
+# AI-MedDiagnostics
